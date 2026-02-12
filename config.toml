@@ -1,0 +1,11 @@
+[mediaFilePaths]
+filmFilePath = "The Beekeeper (2024) [2160p] [4K] [WEB] [5.1] [YTS.MX]/The.Beekeeper.2024.2160p.mkv"
+subtitleFilePath = "The Beekeeper (2024) [2160p] [4K] [WEB] [5.1] [YTS.MX]/the.beekeeper.2024.proper.2160p.uhd.bluray.x265-b0mbardiers.en.srt"
+transcriptFilePath = ""
+
+[settings]
+debug = true
+max_items = 50
+
+
+

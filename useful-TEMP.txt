@@ -1,0 +1,4 @@
+pip install -r requirements.txt
+
+# filmFilePath = "The Beekeeper (2024) [2160p] [4K] [WEB] [5.1] [YTS.MX]/The.Beekeeper.2024.2160p.mkv"
+# C:\Users\lewtw\Desktop\FeedMeWeird\FeedMeWeirdPyProject\inputMedia\The Beekeeper (2024) [2160p] [4K] [WEB] [5.1] [YTS.MX]\The.Beekeeper.2024.2160p.mkv

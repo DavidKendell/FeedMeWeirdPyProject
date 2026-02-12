@@ -1,0 +1,13 @@
+# Core dependencies
+requests>=2.31.0
+pydantic>=2.0
+
+# Development & Testing
+pytest>=7.4
+black>=24.0
+flake8>=6.0
+
+# Add your specific packages below
+scenedetect
+moviepy
+opencv-python
